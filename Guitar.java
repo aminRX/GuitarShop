@@ -26,6 +26,9 @@ public class Guitar
         this.topWood = topWood;
     }
     
+    public String getTest () {
+        return ""
+    }
     public String getSerialNumber() {
         return serialNumber;
     }
